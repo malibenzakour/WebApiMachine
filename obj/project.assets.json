@@ -5810,7 +5810,7 @@
       "outputPath": "/Users/malibenzakour/Projects/MachineWebApi/WebApiMachine/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/malibenzakour/.nuget/NuGet/NuGet.Config"
+        "/Users/malibenzakour/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
